@@ -1,0 +1,1618 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:41:55.041Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:41:57.689Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 37
+    at JSON.parse (<anonymous>)
+    at parse (D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-01-25T06:43:23.413Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 37
+    at JSON.parse (<anonymous>)
+    at parse (D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-01-25T06:43:30.461Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:45:28.622Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:45:31.447Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 37
+    at JSON.parse (<anonymous>)
+    at parse (D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-01-25T06:46:27.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:53:02.247Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:53:02.284Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:54:36.862Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:54:36.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:54:58.842Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:54:58.878Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:55:22.637Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:55:22.681Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:55:26.916Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:55:26.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:55:33.223Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:55:33.252Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:55:39.759Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:55:39.781Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:56:31.222Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:56:31.270Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:56:44.939Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:56:45.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:57:41.202Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:57:41.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:58:02.026Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:58:02.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:58:15.377Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:58:15.420Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:58:24.532Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:58:24.577Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:59:03.242Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:59:03.325Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T06:59:13.380Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T06:59:13.407Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:01:06.442Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:01:06.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:01:19.347Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:01:19.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:01:59.418Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:01:59.456Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:02:05.195Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:02:05.240Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:06:40.963Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:06:40.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:08:05.090Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:08:05.112Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:08:27.286Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:08:27.322Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:11:03.466Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:11:03.497Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:11:20.348Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:11:20.370Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:15:36.750Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:15:36.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:16:37.791Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:16:37.816Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:16:44.077Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:16:44.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:16:53.794Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:16:53.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:01.070Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:01.096Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:05.641Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:05.667Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:18.785Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:18.817Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:22.295Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:22.345Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:26.931Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:26.992Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:30.095Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:30.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:17:33.709Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:17:33.756Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:18:31.242Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:18:31.281Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:18:42.924Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:18:43.017Z"}
+error: 
+    status - 500 
+    message - ObjectParameterError: Parameter "obj" to Document() must be an object, got 65b0b8f7b74c18279ce955e1
+    at model.Document (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\document.js:100:11)
+    at model.Model (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:106:12)
+    at new model (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:4919:15)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3165:22
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:4:27)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.signup (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:3:20)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:28:36)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signup (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:26:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/65b0b8f7b74c18279ce955e1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-25T07:18:58.531Z"}
+error: 
+    status - 500 
+    message - ObjectParameterError: Parameter "obj" to Document() must be an object, got 65b20b72e7aca70cc0d933a3
+    at model.Document (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\document.js:100:11)
+    at model.Model (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:106:12)
+    at new model (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:4919:15)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3165:22
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:4:27)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.signup (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:3:20)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:28:36)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signup (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:26:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/65b20b72e7aca70cc0d933a3 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-25T07:19:26.045Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:20:18.718Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:20:18.754Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:20:26.538Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:20:26.587Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:21:47.658Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:21:47.699Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T07:21:55.366Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T07:21:55.451Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:32:45.178Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:32:45.196Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:38:14.441Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:38:14.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:38:16.931Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:38:16.945Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:41:07.008Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:41:07.027Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:41:15.559Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:41:41.280Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:41:41.296Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:41:45.965Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:41:45.983Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:41:47.830Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:41:47.850Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:41:57.237Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:41:57.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:42:02.732Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:42:02.747Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:42:06.426Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:42:06.443Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:42:42.928Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:42:42.943Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:46:19.567Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:46:19.582Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:46:24.789Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:46:24.805Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:46:45.632Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:46:45.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:46:49.256Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:46:49.274Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:46:56.896Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:46:56.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:47:00.507Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:47:00.526Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:47:04.905Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:47:04.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:54:30.494Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:54:30.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:54:44.413Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:54:44.428Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:54:59.248Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:54:59.264Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:55:21.596Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:55:21.613Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:55:25.359Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:55:25.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:55:29.821Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:55:29.846Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:55:31.499Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:55:31.514Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:56:52.342Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:56:52.359Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:56:55.123Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:56:55.138Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:56:57.784Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:56:57.800Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:57:09.330Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:57:09.345Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:57:24.637Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:57:24.653Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:58:32.422Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:58:32.439Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T08:59:53.858Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T08:59:53.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:02:22.171Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:02:22.185Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:02:24.275Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:02:24.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:02:31.329Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:02:31.344Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:02:35.561Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:02:35.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:02:38.245Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:02:38.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:02:50.397Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:02:50.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:03:33.717Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:03:33.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:03:47.316Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:03:47.333Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:03:50.421Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:03:50.437Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:03:56.559Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:03:56.576Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:04:00.527Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:04:00.544Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:04:34.895Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:04:34.911Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:04:39.954Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:04:39.969Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:04:44.039Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:04:44.055Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:04:51.668Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:04:51.683Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:04:57.766Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:04:57.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:05:01.263Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:05:01.279Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:05:09.598Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:05:09.613Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:07.420Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:07.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:19.252Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:19.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:21.897Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:21.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:29.789Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:29.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:37.105Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:37.119Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:42.267Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:42.282Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:51.991Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:52.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:06:55.778Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:06:55.793Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:07:02.845Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:07:02.860Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:07:07.861Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:07:07.884Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:07:09.792Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:07:09.806Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:07:12.241Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:07:12.256Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:10:04.434Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:10:04.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:10:12.349Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:10:12.374Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:10:19.250Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:10:19.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:10:24.307Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:10:24.326Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:13:31.367Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:13:31.392Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:13:37.123Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:13:37.151Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:14:03.922Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:14:03.956Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:14:21.275Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:14:21.325Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:15:30.628Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:15:30.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:15:34.632Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:15:34.667Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:16:17.572Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:16:17.605Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:17:07.897Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:17:07.935Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:17:38.129Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:17:38.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:17:45.833Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:17:45.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:18:01.011Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:18:01.036Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:18:13.490Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:18:13.553Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:18:18.641Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:18:18.666Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:18:25.620Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:18:25.660Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:18:36.127Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:18:36.154Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:18:42.142Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:18:42.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:19:14.147Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:19:14.174Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:19:30.601Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:19:30.636Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:22:07.838Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:22:07.861Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:22:14.847Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:22:14.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:22:23.629Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:22:23.649Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:23:02.414Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:23:02.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:23:08.181Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:23:08.203Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:23:14.998Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:23:15.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:24:15.087Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:24:15.114Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:24:19.034Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:24:19.070Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:35:26.184Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:35:26.228Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:36:11.467Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:36:11.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:36:33.015Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:36:33.056Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:38:42.258Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:38:42.298Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:38:55.805Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:38:55.841Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:39:26.421Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:39:26.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:39:31.957Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:39:31.992Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:39:48.177Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:39:48.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:41:02.834Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:41:02.862Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:41:27.284Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:41:27.319Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:49:09.075Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:49:09.094Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:50:38.210Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:50:38.230Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:50:49.293Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:50:49.326Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:51:06.389Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:51:06.408Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:51:20.177Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:51:20.211Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:51:44.848Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:51:44.874Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:52:32.650Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:52:32.683Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:54:06.187Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:54:06.220Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:25:21)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at deleteUser (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:23:24)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/deleteuser 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-01-25T09:54:53.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:55:18.027Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:55:18.090Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:25:21)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at deleteUser (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:23:24)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/65b23018faa12459546a4035 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-01-25T09:55:49.050Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:56:08.658Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:56:08.709Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T09:56:24.744Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T09:56:24.796Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:01:31.001Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:01:31.039Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:02:06.210Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:02:06.241Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:03:10.179Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:03:10.210Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:03:13.597Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:03:13.618Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:03:43.705Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:03:43.748Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:04:25.854Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:04:25.876Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:04:40.458Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:04:40.503Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:05:01.491Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:05:01.529Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:17:10.766Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:17:10.790Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:20:40.751Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:20:51.205Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:21:16.856Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:21:16.881Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:21:18.416Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:21:26.470Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:21:26.521Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:21:59.566Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:53:32.959Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:53:32.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:53:41.764Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:53:41.779Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:54:30.748Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:55:04.251Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:55:04.267Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:55:11.190Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:55:30.102Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.findOne is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:57:43)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:55:39.770Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:59:56.541Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:59:56.559Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:00:34.147Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:00:34.164Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:00:37.680Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:00:37.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:00:41.377Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:00:41.407Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:00:45.258Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:00:45.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:00:49.010Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:00:49.026Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:02:24.325Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:02:24.341Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:02:28.158Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:02:28.179Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:02:38.837Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:02:38.856Z"}
+error: 
+    status - 500 
+    message - ReferenceError: bcrypt is not defined
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:64:5)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:51:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:02:44.795Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:03:06.962Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:03:06.978Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:03:10.485Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:03:10.500Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:03:40.671Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:03:40.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:07:56.820Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:07:56.846Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:07:59.084Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:07:59.109Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:09:02.740Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:09:02.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:09:07.888Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:09:07.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:09:17.349Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:09:17.364Z"}
+error: 
+    status - 500 
+    message - ReferenceError: bcrypt is not defined
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:62:63)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:10:01.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:13:28.652Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:13:28.667Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:14:02.202Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:14:02.219Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:14:05.346Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:14:05.361Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:14:41.187Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:14:41.203Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:15:06.418Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:15:06.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:16:18.460Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:16:18.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:18:05.789Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:18:05.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:18:21.983Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:18:21.998Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:18:43.310Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:18:43.324Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:18:48.495Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:18:48.515Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:19:00.011Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:19:00.030Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:19:03.111Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:19:03.129Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:19:53.825Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:19:53.840Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:20:00.459Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:20:00.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:20:04.154Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:20:04.170Z"}
+error: 
+    status - 500 
+    message - ReferenceError: bcrypt is not defined
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:62:63)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:20:09.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:20:41.751Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:20:41.771Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:21:46.698Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:21:46.715Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:21:51.006Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:21:51.026Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:23:29.557Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:23:29.573Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:23:55.906Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:23:55.924Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:28:58.489Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:28:58.507Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:29:11.206Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:29:11.225Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:35:52.257Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:35:52.276Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:35:59.041Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:35:59.072Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:36:04.900Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:36:04.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:41:01.838Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:41:01.863Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:41:24.295Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:41:24.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:42:10.638Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:42:10.674Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:46:31.362Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:46:31.382Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:46:34.267Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:46:34.286Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:46:54.980Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:46:55.000Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:46:58.896Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:46:58.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:47:03.026Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:47:03.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:57:03.064Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:57:03.086Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:55:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:52:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:57:10.379Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:57:47.114Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:57:47.129Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:57:57.474Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:57:57.489Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:58:19.944Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:58:19.961Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:55:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:52:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:58:21.525Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:55:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:52:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:58:25.589Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:59:00.024Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:59:00.041Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T11:59:12.647Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T11:59:12.663Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Email')
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:11:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.signin (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:10:20)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:55:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:52:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T11:59:13.768Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Email')
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:11:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.signin (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:10:20)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:55:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:52:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T12:00:02.564Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T12:00:51.850Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T12:00:51.873Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Email')
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:12:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.signin (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:10:20)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:55:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at signin (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:52:20)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T12:00:55.829Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T12:01:21.642Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T12:01:21.728Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T12:01:32.750Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T12:01:32.780Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T12:01:54.121Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T12:01:54.167Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/user.controller.js:58:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T12:02:03.331Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T12:02:33.701Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T12:02:33.727Z"}

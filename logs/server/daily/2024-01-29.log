@@ -1,0 +1,749 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T04:52:56.675Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T04:52:56.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:01:04.144Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:01:04.181Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:03:50.229Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:03:50.251Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:06:18.736Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:06:18.758Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:06:38.662Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:06:38.679Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:11.317Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:11.333Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:18.665Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:18.682Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:26.449Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:26.464Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:31.686Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:31.701Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:45.179Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:45.198Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:47.241Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:47.264Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:07:51.267Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:07:51.288Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:08:07.295Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:08:07.312Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:22:14)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:08:07.704Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:08:14.127Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:08:14.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:08:19.649Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:08:19.667Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:08:34.238Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:08:34.255Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:17:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:12:21.763Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:20:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:12:30.328Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:14:53.990Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:14:54.009Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:20:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:15:20.570Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:17:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:15:29.028Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:15:56.761Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:15:56.775Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:17:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:39:52.824Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:20:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:40:35.267Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:17:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:42:08.233Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:17:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T05:42:33.452Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:43:21.973Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:43:21.998Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:29:21.560Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:29:21.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:29:54.582Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:29:54.616Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:30:12.132Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:30:12.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:30:20.778Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:30:20.815Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:31:20.751Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:31:20.777Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:32:14.378Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:32:14.411Z"}
+error: 
+    status - 500 
+    message - Error: User already exist!
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:10:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T07:32:57.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:35:40.752Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:35:40.776Z"}
+error: 
+    status - 500 
+    message - Error: User already exist with same Email!
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:10:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T07:35:45.653Z"}
+error: 
+    status - 500 
+    message - Error: User already exist with same Email!
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:10:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T07:38:10.230Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:31:33.012Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:31:33.090Z"}
+error: 
+    status - 500 
+    message - ReferenceError: bcryet is not defined
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:14:26)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:31:44.217Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:48:39.800Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:48:39.840Z"}
+error: 
+    status - 500 
+    message - TypeError: (0 , _bcrypt.default) is not a function
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:16:40)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:48:45.067Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:52:24.141Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:52:24.174Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:52:50.311Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:52:50.354Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:53:39.373Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:53:39.405Z"}
+error: 
+    status - 500 
+    message - Error: User already exist with same Email!
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:12:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:54:12.476Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:56:09.223Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:56:32.128Z"}
+error: 
+    status - 500 
+    message - Error: User already exist with same Email!
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:12:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:57:34.620Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:57:38.964Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:04:30.415Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:04:59.512Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:12:03.274Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:12:03.290Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:12:18.231Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:12:18.246Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:13:13.886Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:13:13.902Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:13:55.425Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:13:55.442Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:14:07.417Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:14:07.436Z"}
+error: 
+    status - 500 
+    message - ReferenceError: user is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:60)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:14:10.745Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:15:06.329Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:15:06.351Z"}
+error: 
+    status - 500 
+    message - ReferenceError: user is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:60)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:15:07.945Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:30:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:15:20.607Z"}
+error: 
+    status - 500 
+    message - ReferenceError: user is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:60)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:15:39.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:15:59.899Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:15:59.917Z"}
+error: 
+    status - 500 
+    message - ReferenceError: user is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:60)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:16:12.139Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:16:25.269Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:16:25.285Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:16:29.580Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:16:29.598Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:16:51.157Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:16:51.173Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:17:26.744Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:17:26.758Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:17:30.516Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:17:30.531Z"}
+error: 
+    status - 500 
+    message - Error: data and hash must be strings
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:215:17)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:42)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:17:33.120Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:20.329Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:20.347Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:27.286Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:27.305Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:31.725Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:31.753Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:33.830Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:33.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:36.638Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:36.655Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:42.115Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:42.133Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:20:45.060Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:20:45.085Z"}
+error: 
+    status - 500 
+    message - Error: data and hash must be strings
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:215:17)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:42)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:20:51.063Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:21:11.448Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:21:11.476Z"}
+error: 
+    status - 500 
+    message - Error: data and hash must be strings
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:215:17)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:42)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:21:17.237Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:21:36.466Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:21:36.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:21:40.318Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:21:40.337Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:21:44.123Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:21:44.144Z"}
+error: 
+    status - 500 
+    message - Error: data and hash must be strings
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:215:17)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:42)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:21:46.266Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:22:28.870Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:22:28.886Z"}
+error: 
+    status - 500 
+    message - Error: data and hash must be strings
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:215:17)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:42)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:22:48.064Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:22:59.259Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:22:59.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:25:08.025Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:25:08.043Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:36:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:25:11.670Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:25:37.350Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:25:37.370Z"}
+error: 
+    status - 500 
+    message - ReferenceError: chackEmail is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:38:14)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:30:15.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:30:38.689Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:30:38.706Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:30:43.263Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:30:43.280Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:32:18.231Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:32:18.246Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:208:17)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\BridgeLabz\FunDo\fundo-app\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:42)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:32:22.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:36:46.511Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:36:46.528Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:36:53.289Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:36:53.304Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:36:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:36:59.479Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:38:37.585Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:38:37.601Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:38:43.404Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:38:43.418Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:38:46.445Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:38:46.469Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:38:51.569Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:38:51.591Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:38:57.989Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:38:58.006Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:39:01.396Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:39:01.414Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:39:07.065Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:39:07.085Z"}
+error: 
+    status - 500 
+    message - ReferenceError: chackEmail is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:37:14)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:41:20.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:42:04.531Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:42:04.546Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:42:13.976Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:42:13.999Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:44:23.530Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:44:23.550Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:44:30.249Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:44:30.265Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:44:33.943Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:44:33.959Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:44:37.511Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:44:37.529Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:44:47.178Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:44:47.198Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:45:54.977Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:45:54.999Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:46:54.745Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:46:54.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:51:14.552Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:51:14.568Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:51:37.368Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:51:37.384Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:51:40.570Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:51:40.589Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:51:48.317Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:51:48.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:51:55.732Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:51:55.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:51:58.180Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:51:58.200Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:04.659Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:04.676Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:08.474Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:08.490Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:11.920Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:11.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:22.608Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:22.628Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:32.534Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:32.562Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:36.450Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:36.469Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:38.773Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:38.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:45.308Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:45.338Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:53:53.426Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:53:53.444Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T10:57:40.390Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T10:57:40.405Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:28:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:59:41.875Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:33:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users//signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:59:53.241Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:44:23.933Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:44:24.026Z"}
