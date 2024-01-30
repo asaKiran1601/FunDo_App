@@ -42,3 +42,17 @@ export const getNote = async (req, res, next)=>{
       next(error)
   }
 }
+
+// update a note
+export const updateNote = async (req, res, next) => {
+  try {
+    const data = await noteService.updateNote(req.params._id, req.body);
+    res.status(HttpStatus.ACCEPTED).json({
+      code: HttpStatus.ACCEPTED,
+      data: data,
+      message: 'Note updated successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};

@@ -13,4 +13,7 @@ router.get('', userAuth, noteController.getAllNote);
 // route to get the note
 router.get('/:_id', userAuth, noteController.getNote);
 
+// route to update note
+router.put('/:_id', userAuth, noteController.updateNote);
+
 export default router;

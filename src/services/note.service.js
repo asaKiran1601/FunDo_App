@@ -23,3 +23,20 @@ export const getNote = async (id) =>{
     const data = await Note.findById(id)
     return data;
 }
+
+//update note
+export const updateNote = async (id, body) => {
+    const data = await Note.findByIdAndUpdate(
+        {
+        _id:id
+        },body,
+        {
+            new:true
+        }
+    );
+    
+    if (!data) {
+        throw new Error('Note not found or update failed');
+    }
+    return data;
+  };
