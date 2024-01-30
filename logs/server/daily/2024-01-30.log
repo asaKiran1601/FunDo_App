@@ -1,0 +1,1036 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:10:47.990Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:10:48.028Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:11:48.474Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:11:48.507Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:12:04.804Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:12:04.840Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:12:09.294Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:12:09.316Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:29:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:14:37.151Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:29:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:14:57.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:16:22.574Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:16:22.643Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:30:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:16:28.977Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:16:53.359Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:16:53.411Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:31:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:16:54.801Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:17:17.807Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:17:17.861Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:17:24.694Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:17:24.724Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:30:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:17:27.919Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:17:44.529Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:17:44.580Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:30:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:18:01.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:18:45.618Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:18:45.674Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:18:52.498Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:18:52.537Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:29:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:18:56.177Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:50)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:20:34.849Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:32:50)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:20:54.819Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:21:33.283Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:21:33.373Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:34:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T05:21:33.900Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T05:43:00.535Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T05:43:00.603Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:11:31.281Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:11:31.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:12:00.598Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:12:00.637Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:29:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:12:23.239Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:12:40.673Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:12:40.717Z"}
+error: 
+    status - 500 
+    message - Error: secretOrPrivateKey must have a value
+    at Object.sign (D:\BridgeLabz\FunDo\fundo-app\node_modules\jsonwebtoken\sign.js:107:20)
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:36:25)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:12:42.054Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:12:55.426Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:12:55.453Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:27:56.881Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:27:56.904Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:28:07.827Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:28:07.856Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:28:10.407Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:28:10.433Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:28:55.382Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:28:55.402Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:36:36.515Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:36:36.548Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:36:40.819Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:36:40.841Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:36:44.385Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:36:44.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:36:49.979Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:36:50.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:36:57.436Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:36:57.461Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:37:02.525Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:37:02.554Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:37:06.069Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:37:06.095Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:37:08.770Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:37:08.801Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:40:07.016Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:40:07.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:40:13.333Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:40:13.359Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:40:26.393Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:40:26.419Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:40:31.036Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:40:31.066Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:40:35.297Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:40:35.324Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:40:52.764Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:40:52.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:41:33.151Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:41:33.171Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:41:58.422Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:41:58.448Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:55:53.241Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:55:53.258Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:56:09.341Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:56:09.368Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T06:56:11.912Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T06:56:11.931Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:23:02.099Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:23:02.126Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:23:34.328Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:23:34.352Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:23:47.425Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:23:47.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:23:53.881Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:23:53.907Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:03.912Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:03.933Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:18.252Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:18.276Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:25.352Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:25.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:40.434Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:40.463Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:43.695Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:43.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:53.465Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:53.497Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:24:57.741Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:24:57.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:25:04.276Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:25:04.308Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:25:22.763Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:25:22.785Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:25:28.528Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:25:33.594Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:25:59.769Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:26:26.653Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:26:35.722Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:26:42.510Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:26:44.658Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:26:53.575Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:02.446Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:09.430Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:14.785Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:16.625Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:24.721Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:40.113Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:54.056Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:27:58.655Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:05.954Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:09.050Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:17.358Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:25.152Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:31.784Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:36.263Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:43.311Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:28:59.244Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:29:22.354Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:29:26.449Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:29:36.667Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:29:39.660Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:29:46.247Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:30:08.855Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:30:16.736Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:34:53.746Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:35:11.357Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:35:45.462Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:35:51.175Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:35:58.407Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:36:01.031Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:36:04.626Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:36:55.481Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:36:57.750Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:05.195Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:11.531Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:17.007Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:20.460Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:27.584Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:30.972Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:35.726Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:45.310Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:52.392Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:37:58.547Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:38:03.918Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:38:35.161Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:38:41.192Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:39:19.958Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:39:23.328Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:39:47.885Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:23.455Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:25.710Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:32.258Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:37.242Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:51.031Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:56.268Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:40:59.686Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:41:03.538Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:44:06.000Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:44:08.643Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:44:25.270Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:46:39.658Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:46:45.070Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:46:45.086Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:46:59.177Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:46:59.195Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Password
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:34:13)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:48:26.431Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:54:27.318Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:54:27.338Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-01-30T07:54:48.663Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:59:00.182Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:59:00.200Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:59:14.461Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:59:14.479Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T07:59:20.596Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T07:59:20.616Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:00:20.329Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:00:20.344Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:01:37.477Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:01:37.496Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:01:42.959Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:01:42.975Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:02:37.740Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:02:37.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:02:46.609Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:02:46.629Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:03:36.129Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:03:36.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:03:42.551Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:03:42.566Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-01-30T08:03:49.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:04:08.979Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:04:08.998Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:29:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T08:05:26.269Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email
+    at _callee2$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/user.service.js:29:11)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/signin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T08:07:11.912Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'userId')
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/note.controller.js:7:56)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at createNote (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/note.controller.js:4:24)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:27:5)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T08:07:29.206Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:07:49.141Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:07:49.160Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:07:53.744Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:07:53.770Z"}
+error: 
+    status - 500 
+    message - ReferenceError: user is not defined
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:25:23)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T08:07:55.463Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:08:42.895Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:08:42.911Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:08:48.169Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:08:48.188Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T08:48:40.713Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T08:48:40.746Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:07:59.800Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:07:59.867Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:08:55.032Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:08:55.073Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:09:22.229Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:09:22.255Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:14:07.386Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:14:07.417Z"}
+error: 
+    status - 500 
+    message - ReferenceError: UserService is not defined
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/note.controller.js:38:48)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/note.controller.js:38:24)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:25:5)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:231:16)
+    at done (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\BridgeLabz\FunDo\fundo-app\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:14:34.432Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:14:56.014Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:14:56.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:15:21.034Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:15:21.062Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:15:31.177Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:15:31.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:15:50.162Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:15:50.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:16:07.681Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:16:07.745Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:16:17.885Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:16:19.014Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:18:06.300Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:18:06.335Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:19:49.006Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:19:49.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:21:04.350Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:21:04.387Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:21:06.203Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:23:56.994Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:23:57.016Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{
+  title: 'Learn NodeJS',
+  discription: 'By the end of this Internship I must be perfect in NodeJS techtechnology!',
+  color: 'red'
+}" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:24:03.276Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{
+  title: 'Learn NodeJS',
+  discription: 'By the end of this Internship I must be perfect in NodeJS techtechnology!',
+  color: 'red'
+}" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:24:49.005Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:27:54.023Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:27:54.066Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:28:02.747Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:28:02.785Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:28:26.816Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:28:26.840Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{
+  title: 'Learn NodeJS',
+  discription: 'By the end of this Internship I must be perfect in NodeJS techtechnology!',
+  color: 'red'
+}" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:28:39.423Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:31:32.392Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:31:32.449Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:32:00.106Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:32:00.139Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{
+  title: 'Learn NodeJS',
+  discription: 'By the end of this Internship I must be perfect in NodeJS techtechnology!',
+  color: 'red'
+}" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:34:00.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:34:51.072Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:34:51.134Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{
+  title: 'Learn NodeJS',
+  discription: 'By the end of this Internship I must be perfect in NodeJS techtechnology!',
+  color: 'red'
+}" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/ 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:34:51.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:35:36.340Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:35:36.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:37:04.569Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:37:04.596Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:37:09.875Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:37:09.958Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:38:25.671Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:38:25.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:38:46.803Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:38:46.874Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:39:17.151Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:39:17.191Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{
+  title: 'Learn NodeJS',
+  discription: 'By the end of this Internship I must be perfect in NodeJS techtechnology!',
+  color: 'red'
+}" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:39:18.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:39:50.358Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:39:50.398Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:40:02.122Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:40:02.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:40:49.081Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:40:49.113Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:41:00.611Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:41:00.636Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:41:25.420Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:41:25.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:41:52.707Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:41:52.742Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:42:48.232Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:42:48.306Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:44:15.012Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:44:15.053Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:46:36.966Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:46:37.013Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:51:50.337Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:51:50.408Z"}
+error: 
+    status - 500 
+    message - Error: Note not found or update failed
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:25:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:51:51.066Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:54:11.866Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:54:11.893Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:56:13.168Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:56:13.212Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:56:58.789Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:56:58.834Z"}
+error: 
+    status - 500 
+    message - Error: Note not found or update failed
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:25:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:57:20.365Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T09:59:36.736Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T09:59:36.775Z"}
+error: 
+    status - 500 
+    message - Error: Note not found or update failed
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:25:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T09:59:46.497Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:00:14.897Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:00:14.984Z"}
+error: 
+    status - 500 
+    message - Error: Note not found or update failed
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:25:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T10:00:15.506Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:05:02.120Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:05:02.136Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:07:56.353Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:07:56.370Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:07:59.138Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:07:59.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:08:05.050Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:08:05.068Z"}
+error: 
+    status - 500 
+    message - Error: Note not found or update failed
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:27:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T10:08:20.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:09:29.458Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:09:29.476Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading '_id')
+    at _callee3$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:24:22)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T10:09:37.890Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:10:29.856Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:10:29.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:10:36.698Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:10:36.714Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:10:41.055Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:10:41.075Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:10:45.797Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:10:45.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:11:16.167Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:11:16.185Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:12:31.965Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:12:31.981Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:12:38.889Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:12:38.904Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:10.883Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:10.901Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:15.445Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:15.497Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:26.795Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:26.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:37.027Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:37.062Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:41.603Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:41.623Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:48.549Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:48.567Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:52.286Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:52.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:13:57.116Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:13:57.132Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:14:35.132Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:14:35.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:14:55.550Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:14:55.568Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:15:11.921Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:15:11.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:15:17.948Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:15:17.967Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:15:20.701Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:15:20.719Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:18:52.354Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:18:52.370Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:19:18.436Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:19:18.454Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:19:22.930Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:19:22.946Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:19:32.170Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:19:32.191Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:19:37.267Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:19:37.284Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:19:40.861Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:19:40.879Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:20:15.653Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:20:15.669Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:20:26.191Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:20:26.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:20:36.268Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:20:36.288Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:20:42.709Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:20:42.725Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:21:08.132Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:21:08.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:21:42.681Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:21:42.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:23:23.827Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:23:23.846Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ id: '65b8ae9612b17c39dc9c4ce9' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BridgeLabz\FunDo\fundo-app\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T10:23:26.181Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:23:35.866Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:23:35.883Z"}
+error: 
+    status - 500 
+    message - ReferenceError: _id is not defined
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:29:9)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:26:24)
+    at _callee4$ (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/note.controller.js:53:38)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (D:\BridgeLabz\FunDo\fundo-app\src\controllers\/note.controller.js:50:24)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:25:5)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\BridgeLabz\FunDo\fundo-app\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:284:15
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:328:13)
+    at D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BridgeLabz\FunDo\fundo-app\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BridgeLabz\FunDo\fundo-app\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T10:23:44.619Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:23:53.300Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:23:53.318Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:27:17.812Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:27:17.829Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:27:32.310Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:27:32.328Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:28:01.203Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:28:01.224Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:38:54.582Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:38:54.599Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2024-01-30T10:41:55.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:47:27.450Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:47:27.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:49:15.096Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:49:15.120Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:49:28.985Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:49:29.002Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T10:49:36.631Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T10:49:36.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T11:07:10.977Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T11:07:10.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T11:10:33.058Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T11:10:33.076Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-30T11:25:24.199Z"}
+info: Connected to the database. {"timestamp":"2024-01-30T11:25:24.217Z"}
