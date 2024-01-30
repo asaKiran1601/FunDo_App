@@ -5,7 +5,7 @@ import * as UserService from '../services/user.service';
 export const signup = async (req, res, next) => {
 
   try {
-    const data = await UserService.signup(req.body);
+    const data = await UserService.signup(req.body,userID);
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
       data: data,
@@ -21,10 +21,11 @@ export const signup = async (req, res, next) => {
 export const signin = async (req, res, next) => {
 
   try {
+    // console.log(req.body);
     const data = await UserService.signin(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
-      data: data,
+      Token: data,
       message: 'Login successfully'
     });
   } catch (error) {
