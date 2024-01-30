@@ -34,9 +34,15 @@ export const updateNote = async (id, body) => {
             new:true
         }
     );
-    
+
     if (!data) {
         throw new Error('Note not found or update failed');
     }
     return data;
   };
+
+// delete a note
+export const deleteNote = async(id) => {
+    await Note.findByIdAndDelete(id)
+    return '';
+}

@@ -162,3 +162,7 @@ info: ::1 - - [30/Jan/2024:10:41:55 +0000] "GET /api/v1/notes HTTP/1.1" 400 56 "
 
 info: ::1 - - [30/Jan/2024:10:42:05 +0000] "GET /api/v1/notes HTTP/1.1" 201 513 "-" "-"
 
+info: ::1 - - [30/Jan/2024:15:41:33 +0000] "GET /api/v1/notes HTTP/1.1" 201 513 "-" "-"
+
+info: ::1 - - [30/Jan/2024:15:41:58 +0000] "DELETE /api/v1/notes/65b8ae9612b17c39dc9c4ce9 HTTP/1.1" 200 60 "-" "-"
+
