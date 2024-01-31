@@ -58,5 +58,14 @@ export const archiveNote = async (id) => {
     return updatedData;
   };
 
+// trash a note 
+export const trashNote = async (id) => {
+    const data = await Note.findById(id);
 
+    data.isTrash = !data.isTrash;
+
+    const updatedData = await data.save();
+    console.log('trash res after toggle',updatedData)
+    return updatedData;
+};
 

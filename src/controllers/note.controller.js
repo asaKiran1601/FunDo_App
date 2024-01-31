@@ -87,5 +87,20 @@ export const archiveNote = async (req, res, next) => {
   }
 };
 
+// trash a note 
+export const trashNote = async (req, res, next) =>{
+  try{
+    const data = await noteService.trashNote(req.params._id);
+    res.status(HttpStatus.ACCEPTED).json({
+      code : HttpStatus.ACCEPTED,
+      data : data,
+      message : "Note successfully sent to trash!"
+    })
+  }
+catch(error){
+    next(error);
+  }
+};
+
 
 
