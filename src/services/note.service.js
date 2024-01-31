@@ -46,3 +46,26 @@ export const deleteNote = async(id) => {
     await Note.findByIdAndDelete(id)
     return '';
 }
+
+// archive a Note
+export const archiveNote = async (id) => {
+    const data = await Note.findById(id);
+    
+    data.isArchived = !data.isArchived;
+    
+    const updatedData = await data.save();
+    console.log("archive res after toggle", updatedData);
+    return updatedData;
+  };
+
+// trash a note 
+export const trashNote = async (id) => {
+    const data = await Note.findById(id);
+
+    data.isTrash = !data.isTrash;
+
+    const updatedData = await data.save();
+    console.log('trash res after toggle',updatedData)
+    return updatedData;
+};
+
