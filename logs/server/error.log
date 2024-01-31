@@ -3576,3 +3576,185 @@ error:
       method - GET 
       IP - ::1
      {"timestamp":"2024-01-30T10:41:55.662Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:50:29)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:54:55.302Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:50:29)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:56:04.134Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:49:38)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:57:47.490Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:50:29)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:58:52.365Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isTrash')
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:62:26)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:59:02.657Z"}
+error: 
+    status - 500 
+    message - Error: Note not found
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:63:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:01:02.852Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:56:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:09:30.746Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userId is not defined
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:74:25)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:14:14.710Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:14:41.299Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:15:28.737Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:15:29.898Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:16:05.189Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:16:06.434Z"}

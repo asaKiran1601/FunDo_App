@@ -4,7 +4,8 @@ import * as noteService from '../services/note.service';
 // Create a note
 export const createNote = async (req, res, next) => {
   try {
-    const data = await noteService.createNote(req.user.userId, req.body);
+    const data = await noteService.createNote(req.body);
+    console.log(data);
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
       data: data,
@@ -18,13 +19,13 @@ export const createNote = async (req, res, next) => {
 // get all notes
 export const getAllNote = async (req, res, next) => {
   try {
-    const data = await noteService.getAllNote();
+    const data = await noteService.getAllNote(req.body.userId);
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
       data: data,
-      message: 'Note fetched successfully'
+      message: 'All Notes fetched successfully'
     });
-  } catch {
+  } catch(error) {
     next(error);
   }
 };
@@ -46,13 +47,12 @@ export const getNote = async (req, res, next)=>{
 // update a note
 export const updateNote = async (req, res, next) => {
   try {
-    const data = await noteService.updateNote(req.params._id, req.body);
+    const data = await noteService.updateNote(req.params._id);
     res.status(HttpStatus.ACCEPTED).json({
       code: HttpStatus.ACCEPTED,
       data: data,
       message: 'Note updated successfully'
     });
-    
   } catch (error) {
     next(error);
   }
@@ -72,7 +72,6 @@ export const deleteNote = async (req, res, next)=>{
   }
 }
 
-
 // archive a note 
 export const archiveNote = async (req, res, next) => {
   try {
@@ -90,7 +89,7 @@ export const archiveNote = async (req, res, next) => {
 // trash a note 
 export const trashNote = async (req, res, next) =>{
   try{
-    const data = await noteService.trashNote(req.params._id);
+    const data = await noteService.trashNote(req.params._id, req.body);
     res.status(HttpStatus.ACCEPTED).json({
       code : HttpStatus.ACCEPTED,
       data : data,

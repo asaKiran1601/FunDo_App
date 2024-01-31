@@ -2,19 +2,15 @@ import User from '../models/user.model';
 import Note from '../models/note.model';
 
 // create a new note
-export const createNote = async (userId, body) => {
-  const userID = await User.findById(userId);
-  if (!userID) {
-    throw new Error('User Not found!');
-  }
-
+export const createNote = async (body) => {
+    console.log("service",body);
   const data = await Note.create(body);
   return data;
 };
 
 // get All notes
-export const getAllNote = async () =>{
-    const data = await Note.find()
+export const getAllNote = async (userId) =>{
+    const data = await Note.find({userId : userId})
     return data;
 }
 
@@ -51,6 +47,10 @@ export const deleteNote = async(id) => {
 export const archiveNote = async (id) => {
     const data = await Note.findById(id);
     
+    // check the note
+    if (!data) {
+        throw new Error('Note not found');
+    }
     data.isArchived = !data.isArchived;
     
     const updatedData = await data.save();
@@ -58,9 +58,15 @@ export const archiveNote = async (id) => {
     return updatedData;
   };
 
+
 // trash a note 
 export const trashNote = async (id) => {
     const data = await Note.findById(id);
+    
+    // check the note
+    if (!data ) {
+        throw new Error('Note not found');
+    }
 
     data.isTrash = !data.isTrash;
 

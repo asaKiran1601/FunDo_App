@@ -9,7 +9,6 @@ import jwt from 'jsonwebtoken';
  * @param {Object} res
  * @param {Function} next
  */
-
 export const userAuth = async (req, res, next) => {
   try {
     let bearerToken = req.header('Authorization');
@@ -20,7 +19,10 @@ export const userAuth = async (req, res, next) => {
       };
     // bearerToken = bearerToken.split(' ')[1];
     
-    req.user =  jwt.verify(bearerToken , process.env.SECRET_KEY);
+    const payload = jwt.verify(bearerToken , process.env.SECRET_KEY);
+    // console.log('body', req.body)
+    req.body = {...req.body, userId:payload.userId};
+    // console.log('body', req.body)
     next();
   } catch (error) {
     next(error);

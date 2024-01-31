@@ -1,0 +1,314 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:46:18.683Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:46:18.699Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:46:52.133Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:46:52.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:48:00.150Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:48:00.169Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:49:38.979Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:49:38.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:49:44.311Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:49:44.327Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:50:05.038Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:50:05.058Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:50:42.955Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:50:42.974Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:50:29)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:54:55.302Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:55:58.628Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:55:58.649Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:50:29)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:56:04.134Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:57:41.635Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:57:41.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:57:44.195Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:57:44.213Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:49:38)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:57:47.490Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:58:20.120Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:58:20.136Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:58:34.014Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:58:34.033Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T10:58:51.919Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T10:58:51.937Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:50:29)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:58:52.365Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isTrash')
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:62:26)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T10:59:02.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:00:38.151Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:00:38.167Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:00:50.295Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:00:50.311Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:00:55.339Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:00:55.357Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:01:00.016Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:01:00.035Z"}
+error: 
+    status - 500 
+    message - Error: Note not found
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:63:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65b8ae9612b17c39dc9c4ce9/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:01:02.852Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:02:13.744Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:02:13.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:03:18.368Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:03:18.384Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:03:27.674Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:03:27.690Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:03:49.184Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:03:49.200Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:03:56.225Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:03:56.245Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:04:13.133Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:04:13.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:04:39.358Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:04:39.377Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:04:49.014Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:04:49.036Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:06:39.419Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:06:39.437Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:07:06.809Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:07:06.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:07:25.246Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:07:25.264Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:07:29.115Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:07:29.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:07:31.685Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:07:31.702Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:07:36.539Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:07:36.559Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:08.151Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:08.174Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:12.096Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:12.113Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:31.231Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:31.249Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:34.136Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:34.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:39.160Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:39.176Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:43.795Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:43.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:50.217Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:50.239Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:08:57.738Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:08:57.760Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:09:00.336Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:09:00.357Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:09:18.683Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:09:18.699Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:09:20.840Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:09:20.856Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee6$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:56:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/archive 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:09:30.746Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:10:14.330Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:10:14.347Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:10:25.655Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:10:25.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:10:30.548Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:10:30.563Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:11:39.444Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:11:39.460Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:11:44.314Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:11:44.336Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:11:48.871Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:11:48.888Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:12:40.938Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:12:40.955Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:12:45.112Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:12:45.138Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:13:00.134Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:13:00.151Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:13:03.915Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:13:03.935Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:13:22.377Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:13:22.396Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:13:57.058Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:13:57.074Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:14:08.758Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:14:08.775Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:14:12.195Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:14:12.214Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userId is not defined
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:74:25)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:14:14.710Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:14:25.697Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:14:25.712Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:14:39.805Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:14:39.831Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:14:41.299Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:15:02.169Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:15:02.201Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:15:28.530Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:15:28.552Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:15:28.737Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:15:29.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:15:50.700Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:15:50.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:16:04.097Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:16:04.117Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:16:05.189Z"}
+error: 
+    status - 500 
+    message - Error: Unauthorized: User is not the owner of the note
+    at _callee7$ (D:\BridgeLabz\FunDo\fundo-app\src\services\/note.service.js:75:15)
+    at tryCatch (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\BridgeLabz\FunDo\fundo-app\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/65ba155a4d410928e4c1f6d6/trash 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-31T11:16:06.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:16:15.386Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:16:15.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:16:21.824Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:16:21.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:16:27.861Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:16:27.877Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-31T11:16:33.311Z"}
+info: Connected to the database. {"timestamp":"2024-01-31T11:16:33.326Z"}

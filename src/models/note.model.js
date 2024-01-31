@@ -1,6 +1,5 @@
 import { Schema, model } from 'mongoose';
 
-
 // define a schema for note
 const noteSchema = new Schema(
   {
@@ -33,7 +32,6 @@ const noteSchema = new Schema(
     timestamps: true
   }
 );
-
 
 // export schema based on schema
 export default model('Note', noteSchema);
