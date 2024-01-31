@@ -1,23 +1,32 @@
 import { Schema, model } from 'mongoose';
 
-const userSchema = new Schema(
+
+// define a schema for note
+const noteSchema = new Schema(
   {
     title: {
       type: String,
-      require: true
+      required: true
     },
     discription: {
       type: String,
-      require:true
+      required: true
     },
     color: {
       type: String
     },
-    isArchived:{
-        type : Boolean
+    userId: {
+      type: Schema.Types.ObjectId,
+      ref: 'users',
+      required: true
     },
-    isDeleted:{
-        type : Boolean
+    isArchived: {
+      type: Boolean,
+      default: false
+    },
+    isTrash: {
+      type: Boolean,
+      default: false
     }
   },
   {
@@ -26,6 +35,5 @@ const userSchema = new Schema(
 );
 
 
-
-
-export default model('Note', userSchema);
+// export schema based on schema
+export default model('Note', noteSchema);

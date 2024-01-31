@@ -71,3 +71,19 @@ export const deleteNote = async (req, res, next)=>{
     next(error);
   }
 }
+
+// archive a note 
+export const archiveNote = async (req, res, next) => {
+  try {
+    const data = await noteService.archiveNote(req.params._id);
+    res.status(HttpStatus.ACCEPTED).json({
+      code: HttpStatus.ACCEPTED,
+      data: data,
+      message: 'Note archived successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
