@@ -18,4 +18,5 @@ router.put('/:_id', userAuth, noteController.updateNote);
 
 // route to delete note
 router.delete('/:_id', userAuth, noteController.deleteNote)
+
 export default router;

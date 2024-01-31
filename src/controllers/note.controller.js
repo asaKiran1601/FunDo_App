@@ -52,6 +52,7 @@ export const updateNote = async (req, res, next) => {
       data: data,
       message: 'Note updated successfully'
     });
+    
   } catch (error) {
     next(error);
   }

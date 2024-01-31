@@ -9,6 +9,7 @@ import jwt from 'jsonwebtoken';
  * @param {Object} res
  * @param {Function} next
  */
+
 export const userAuth = async (req, res, next) => {
   try {
     let bearerToken = req.header('Authorization');
