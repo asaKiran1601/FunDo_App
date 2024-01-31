@@ -72,6 +72,7 @@ export const deleteNote = async (req, res, next)=>{
   }
 }
 
+
 // archive a note 
 export const archiveNote = async (req, res, next) => {
   try {
@@ -85,5 +86,6 @@ export const archiveNote = async (req, res, next) => {
     next(error);
   }
 };
+
 
 
